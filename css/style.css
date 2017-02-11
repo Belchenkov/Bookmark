@@ -24,6 +24,14 @@ body {
 	line-height: 40px;
 }
 
+form label {
+	font-style: italic;
+}
+
+.btn-right {
+	float: right;
+}
+
 /* Custom page footer */
 .footer {
 	padding-top: 19px;
